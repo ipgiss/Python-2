@@ -1,12 +1,23 @@
-Привет.
-Тут будут мои работы, задачи и решения задач с курса на Степике "Поколение Python": курс для начинающих.
-Планирую пройти все три блока этого курса и потом приступить к автоматизации (AQA) на Python.
+# 🐍 Курс "Поколение Python": решения и проекты
 
-Всем хорошего кодинга! :)
+🇷🇺 **Русская версия**  
+Привет!  
+В этом репозитории собраны мои работы, решения задач и проекты с курса ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) на Степике.
 
----------------------------
-Hello.
-Here will be my work, tasks and problem solving from the course on Stepika "Python Generation": a course for beginners.
-I plan to complete all three blocks of this course and then proceed to automation (AQA) in Python.
+**Мой план обучения:**
+1. Завершить все три блока курса
+2. Перейти к изучению автоматизации (AQA) на Python
 
-Happy coding everyone! :)
+Всем хорошего кодинга! ✨
+
+---
+
+🇬🇺 **English version**  
+Hello!  
+This repository contains my solutions, projects, and assignments from the ["Python Generation" beginner course](https://stepik.org/course/58852) on Stepik.
+
+**My learning roadmap:**
+1. Complete all three course modules
+2. Proceed to Python automation (AQA)
+
+Happy coding everyone! 🚀
